@@ -1,0 +1,1 @@
+This folder contains the solution of worksheet 2 which is related to image classification using mnist dataset.
