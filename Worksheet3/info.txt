@@ -1,0 +1,1 @@
+This folder contains the work of worksheet 3 that contains anout MCP Neuron, Perceptron and their algorithms, limitations.
