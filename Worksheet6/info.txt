@@ -1,0 +1,1 @@
+This folder contains the solution of worksheet 6 file which is related to the use of Data Augmentation techniques, use of Transfer learning, Batch Normalization, ReduceLROnPlateau, and so on in FruitsInAmazon dataset.
