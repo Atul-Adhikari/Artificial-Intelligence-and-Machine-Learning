@@ -1,0 +1,1 @@
+This folder contains the solution of worksheet 8 and the solution contains text preprocessing using the steps such as stop word removal, punctuation removal, lemmatization, stemming and includes the text classification using Logistic Regression and Linear Support Vector Classifier.
